@@ -10,6 +10,7 @@ The goal is to demonstrate strong analytical skills, technical proficiency, and 
 Dataset
 
 File: Customer.csv 
+[Shopper Lens.csv](https://github.com/user-attachments/files/23681391/Shopper.Lens.csv)
 
 Records: Add number of rows after checking the file
 [Customer.ipynb](https://github.com/user-attachments/files/23681353/Customer.ipynb)
