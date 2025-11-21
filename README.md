@@ -13,7 +13,6 @@ File: Customer.csv
 [Shopper Lens.csv](https://github.com/user-attachments/files/23681391/Shopper.Lens.csv)
 
 Records: Add number of rows after checking the file
-[Customer.ipynb](https://github.com/user-attachments/files/23681353/Customer.ipynb)
 
 Features include:
 
@@ -24,7 +23,7 @@ Transaction and spending information
 Product categories and delivery types
 
 Tools & Technologies
-
+[Customer.ipynb](https://github.com/user-attachments/files/23681353/Customer.ipynb)
 Python: Pandas, NumPy, Matplotlib, Seaborn
 
 Jupyter Notebook: Data exploration & code execution
