@@ -9,9 +9,10 @@ The goal is to demonstrate strong analytical skills, technical proficiency, and 
 
 Dataset
 
-File: Customer.csv (or the main file used in your project)
+File: Customer.csv 
 
 Records: Add number of rows after checking the file
+[Customer.ipynb](https://github.com/user-attachments/files/23681353/Customer.ipynb)
 
 Features include:
 
@@ -20,8 +21,6 @@ Customer demographics (age, gender, income, etc.)
 Transaction and spending information
 
 Product categories and delivery types
-
-You can update this section with exact details from your dataset.
 
 Tools & Technologies
 
